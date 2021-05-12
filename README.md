@@ -6,13 +6,13 @@
 ### My name is Yuliia.
 
 I'm looking for an opportunity to make the web a better place, contribute and create awesome projects.
-Currently I am a student in GoIT courses, I am a future Full Stack Developer.
+Currently I am a student in GoIT courses.
 
 - 🔭 I’m currently working on **becoming a Full Stack Developer**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **interesting projects in order to practice my skills**
-- 🤔 I’m looking for help with **fighting against perfectionism <img src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" width="28"/>**
-- ⚡ Looking for balance between my virtual and real life <img src="https://emojis.slackmojis.com/emojis/images/1471987884/1060/heart.gif?1471987884" width="28"/.
+- 🤔 I’m looking for help with **fighting against perfectionism :)**
+- ⚡ Looking for balance between my virtual and real life.
 
 My motto for this year - **Better done than perfect!**
 
@@ -37,6 +37,8 @@ My motto for this year - **Better done than perfect!**
 <img align="left" alt="Figma" width="32px" src="https://emojis.slackmojis.com/emojis/images/1561512161/5893/figma.png?1561512161" />
 
 <img align="left" alt="Photoshop" width="32px" src="https://emojis.slackmojis.com/emojis/images/1569937346/6585/photoshop.png?1569937346" />
+
+<br/>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1617814719/28066/emoji-arrow-right.gif?1617814719" width="23"/> Feel free to connect with me:
 
