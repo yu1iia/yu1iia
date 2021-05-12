@@ -40,7 +40,7 @@ My motto for this year - **Better done than perfect!**
 
 <br/>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1617814719/28066/emoji-arrow-right.gif?1617814719" width="23"/> Feel free to connect with me:
+### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Feel free to connect with me:
 
 [<img align="left" alt="yuliiaburko | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
 [<img align="left" alt="yuliiaburko | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
