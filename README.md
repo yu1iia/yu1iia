@@ -44,7 +44,7 @@ My motto for this year - **Better done than perfect!**
 
 [<img title="Instagram" align="left" alt="yuliiaburko | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
 [<img title="LinkedIn" align="left" alt="yuliiaburko | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
-[<img title= Telegram"" align="left" alt="yuliiaburko | Telegram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
+[<img title= "Telegram" align="left" alt="yuliiaburko | Telegram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
 
 <!-- [<img align="left" alt="" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram] -->
 
