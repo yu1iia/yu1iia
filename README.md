@@ -9,7 +9,7 @@ I'm looking for an opportunity to make the web a better place, contribute and cr
 Currently I am a student in GoIT courses.
 
 - 🔭 I’m currently working on **becoming a Full Stack Developer**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 - 👯 I’m looking to collaborate on **interesting projects in order to practice my skills**
 - 🤔 I’m looking for help with **fighting against perfectionism :)**
 - ⚡ Looking for balance between my virtual and real life.
