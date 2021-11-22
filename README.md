@@ -28,6 +28,8 @@ My motto for this year - **Better done than perfect!**
 
 <img title="React" align="left" alt="React" width="32px" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" />
 
+<img title="NodeJS" align="left" alt="React" width="32px" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" />
+
 <img title="VS Code" align="left" alt="Visual Studio Code" width="32px" src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" />
 
 <img title="Git" align="left" alt="Git" width="32px" src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" />
