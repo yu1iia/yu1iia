@@ -9,7 +9,7 @@
 
 My motto of this year - **Better done than perfect!**
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Key Skills:
+### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Languages and Tools:
 
 <img title="HTML5" align="left" alt="HTML5" width="32px" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792"/>
 
@@ -40,8 +40,9 @@ My motto of this year - **Better done than perfect!**
 <img title="Photoshop" align="left" alt="Photoshop" width="32px" src="https://emojis.slackmojis.com/emojis/images/1569937346/6585/photoshop.png?1569937346" />
 
 <br/>
+<br/>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Feel free to connect with me:
+### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> How to reach me:
 
 [<img title="Instagram" align="left" alt="yuliiaburko | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
 [<img title="LinkedIn" align="left" alt="yuliiaburko | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
