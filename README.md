@@ -5,7 +5,7 @@
 
 ### My name is Yuliia.
 
- I am **Full Stack Developer** looking for an opportunity to make the web a better place, contribute and create awesome projects.
+ I am **Full-Stack Developer** looking for an opportunity to make the web a better place, contribute and create awesome projects.
 
 My motto of this year - **Better done than perfect!**
 
