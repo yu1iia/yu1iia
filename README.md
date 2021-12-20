@@ -5,16 +5,9 @@
 
 ### My name is Yuliia.
 
-I'm looking for an opportunity to make the web a better place, contribute and create awesome projects.
-Currently I am a student in GoIT courses.
+ I am **Full Stack Developer** looking for an opportunity to make the web a better place, contribute and create awesome projects.
 
-- 🔭 I’m currently working on **becoming a Full Stack Developer**
-- 🌱 I’m currently learning **NodeJS**
-- 👯 I’m looking to collaborate on **interesting projects in order to practice my skills**
-- 🤔 I’m looking for help with **fighting against perfectionism :)**
-- ⚡ Looking for balance between my virtual and real life.
-
-My motto for this year - **Better done than perfect!**
+My motto of this year - **Better done than perfect!**
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Key Skills:
 
@@ -27,6 +20,10 @@ My motto for this year - **Better done than perfect!**
 <img title="JavaScript" align="left" alt="JavaScript" width="32px" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" />
 
 <img title="React" align="left" alt="React" width="32px" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" />
+
+<img title="Redux" align="left" alt="React" width="32px" src="https://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png?1462128189" />
+
+<img title="npm" align="left" alt="React" width="32px" padding-top="20px" src="https://emojis.slackmojis.com/emojis/images/1492796514/2108/npm.png?1492796514" />
 
 <img title="NodeJS" align="left" alt="React" width="32px" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" />
 
