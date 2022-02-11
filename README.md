@@ -6,8 +6,12 @@
 ### My name is Yuliia.
 
  I am **Full-Stack Developer** looking for an opportunity to make the web a better place, contribute and create awesome projects.
-
+ 
 My motto of this year - **Better done than perfect!**
+
+
+<img title="CodeWars" style="margin-left: 50px;" alt="CodeWars" src="https://www.codewars.com/users/yu1iia/badges/small" />
+
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Languages and Tools:
 
