@@ -62,3 +62,8 @@ My motto of this year - **Better done than perfect!**
 [linkedin]: https://www.linkedin.com/in/yuliia-burko/
 [telegram]: https://t.me/yuliia_burko
 [gmail]: mailto:yuliia.burkoa@gmail.com
+
+
+[![Yuliia Burko profile views](https://u8views.com/api/v1/github/profiles/44140761/views/day-week-month-total-count.svg)](https://u8views.com/github/yu1iia)
+
+<a href="https://u8views.com/github/yu1iia"><img src="https://u8views.com/api/v1/github/profiles/44140761/views/day-week-month-total-count.svg"></a>
